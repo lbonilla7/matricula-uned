@@ -4,3 +4,6 @@ npm-debug.*
 .bablelrc
 .flowconfig
 .watchmanconfig
+android/.gradle/
+android/app/build/
+android/build/
